@@ -3,3 +3,5 @@
 company/product/portfolio. This project showcases semantic HTML5, custom CSS, and ES6+
 JavaScript.
 Created by <yourname>"
+
+This README file has been edited.
